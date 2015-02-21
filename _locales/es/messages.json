@@ -1,0 +1,50 @@
+{
+    "extDesc" : {
+        "message": "Administrador de extensiones de Nueva Página",
+        "description": "Descripción"
+    },
+    "prueba" : {
+        "message": "Abre nueva pestaña"
+    },
+    "titulo" : {
+        "message": "Opciones New Tab Manager<div class='botonAyuda'></div>"
+    },
+    "activar" : {
+        "message": "Activar"
+    },
+    "desactivar" : {
+        "message": "Desactivar"
+    },
+    "instalar" : {
+        "message": "Instalar"
+    },
+    "desinstalar" : {
+        "message": "Desinstalar"
+    },
+    "ayudaElegida" : {
+        "message": "La elegida para abrir con <img src='img/icon19.png'>"
+    },
+    "ayudaActiva" : {
+        "message": "Nueva pestaña por defecto"
+    },
+    "ayudaInstalada" : {
+        "message": "Extensión instalada"
+    },
+    "contacta" : {
+        "message": "Si quieres que añada nuevas extensiones a esta página escríbeme desde <a href='http://oscapps.com/contacto/' target='_blank'>aquí</a> por favor."
+    },
+    "botonAyuda" : {
+        "message": "Ayuda"
+    },
+    "mensAyuda" : {
+        "message": "<h2>Ayuda</h2>Esta extensión permite gestionar y probar extensiones que cambian la nueva pestaña de Chrome.
+        <ul>
+        <li>Puedes instalar y desinstalar extensiones desde esta página y activar y desactivar las instaladas.</li>
+        <li>La nueva pestaña por defecto será una de las que tengas activas que se muestran en color verde.</li>
+        <li>Las extensiones instaladas se muestran primero.</li>
+        <li>Si haces click en el icono de las extensiónes irás a su página en la chrome store.</li>
+        <li>Puedes probar las extensiones instaladas con el botón <img src='img/open.png' width='25px'>. La extensión permanecerá como activa hasta que acabes de usar la nueva pestaña creada.</li>
+        <li>Haciendo click en una extensión instalada asignarás una extensión al botón de la barra de extensiones <img src='img/icon19.png'>. De esta manera puedes usar a la vez dos extensiones de nueva página: la que se abre por defecto (una de las activas instaladas) y la que selecciones para el icono de la extensión que se mostrará azul en esta página. Si no hay ninguna asignada con el icono abrirás la extensión original de Chrome.</li>
+        </ul>"
+    }
+}
