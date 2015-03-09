@@ -1,6 +1,8 @@
+<h1>Chrome Extension - New Tab Manager</h1>
 
+<img src="http://oscapps.com/wp-content/uploads/2015/03/unnamed-1080x675.png">
 
-Crhome extension that allows you to manage and test extensions that change the new tab in Chrome.
+<b>Crhome extension that allows you to manage and test extensions that change the new tab in Chrome.</b>
 
 You can install and uninstall extensions from this page and enable or disable the installed.
 The new tab by default will be one that you have shown active in green.
@@ -12,7 +14,7 @@ Clicking in an installed extension you will assign this extension to the button 
 
 
 
-Esta extensión permite gestionar y probar extensiones que cambian la nueva pestaña de Chrome.
+<b>Esta extensión permite gestionar y probar extensiones que cambian la nueva pestaña de Chrome.</b>
 
 Puedes instalar y desinstalar extensiones desde esta página y activar y desactivar las instaladas.
 La nueva pestaña por defecto será una de las que tengas activas que se muestran en color verde.
