@@ -1,3 +1,5 @@
+
+
 Crhome extension that allows you to manage and test extensions that change the new tab in Chrome.
 
 You can install and uninstall extensions from this page and enable or disable the installed.
