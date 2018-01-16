@@ -30,7 +30,7 @@ var newTabExtensiones = [
     },
     {
         "extId" : "jfpjdnlnlfohijjdaedloghlehphncoo",
-        "extNombre": "i New Tab",
+        "extNombre": "I New Tab",
         "extUrl": "https://chrome.google.com/webstore/detail/i-new-tab/hdkdmoacnkphoadmfidlhfdobieblphn",
         "extImg": "https://lh3.googleusercontent.com/6JEX0F_SUNTSJeXL8MNx5ZoFyC1_je-TLcZBsZynR14D5oQN0WonqMTYjdwYIoJCRMwCqC6e=w640-h400-e365",
         "extIcon": "https://lh3.googleusercontent.com/y81Mrx-OeVQokULKI4OC4G1p88PEY0oNplCIrtCcRVEkYMacW4gsPNV5Z_g__XTHTZy_M8lrTSU=w26-h26-e365"
