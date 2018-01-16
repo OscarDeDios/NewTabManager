@@ -37,14 +37,6 @@
         "message": "Help"
     },
     "mensAyuda" : {
-        "message": "<h2>Help</h2>This extension allows you to manage and test extensions that change the new tab in Chrome.
-        <ul>
-        <li>You can install and uninstall extensions from this page and enable or disable the installed.</li>
-        <li>The new tab by default will be one that you have shown active in green.</li>
-        <li>The installed extensions are shown first.</li>
-        <li>If you click on the icon of the extensions you will go to their page on the chrome store.</li>
-        <li>You can test the installed extensions with the button <img src='img/open.png' width='25px'>. The extension will remain active until you finish using the new tab created.</li>
-        <li>Clicking in an installed extension you will assign this extension to the button <img src='img/icon19.png'>. This way you can use two new page extensions at once: the defaul new Tab (one of the active installed) and the selected by you showed in blue. If there is not anyone assigned you will open the original Chrome extension.</li>
-        </ul>"  
+        "message": "<h2>Help</h2>This extension allows you to manage and test extensions that change the new tab in Chrome.<ul><li>You can install and uninstall extensions from this page and enable or disable the installed.</li><li>The new tab by default will be one that you have shown active in green.</li><li>The installed extensions are shown first.</li><li>If you click on the icon of the extensions you will go to their page on the chrome store.</li><li>You can test the installed extensions with the button <img src='img/open.png' width='25px'>. The extension will remain active until you finish using the new tab created.</li><li>Clicking in an installed extension you will assign this extension to the button <img src='img/icon19.png'>. This way you can use two new page extensions at once: the defaul new Tab (one of the active installed) and the selected by you showed in blue. If there is not anyone assigned you will open the original Chrome extension.</li></ul>"  
     }
 }

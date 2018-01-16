@@ -22,6 +22,20 @@ var newTabExtensiones = [
         "extIcon": "https://lh5.googleusercontent.com/sSO9uLu1QVkmGJafa9hI6PxcE5s7h3g6cw-5mRBHb3rPhC-mFcdsFBAy0U2PVujZQgJoCdxi2Q=s26-h26-e365-rw"
     },
     {
+        "extId" : "jfpjdnlnlfohijjdaedloghlehphncoo",
+        "extNombre": "Bing New Tab Page",
+        "extUrl": "https://chrome.google.com/webstore/detail/bing-new-tab-page/jfpjdnlnlfohijjdaedloghlehphncoo",
+        "extImg": "https://lh6.googleusercontent.com/6WyIncsP5GKkoTHbIqulIwdENQsBC3tRzp-7gsHYMUg-ZUzQobZpwTL4s7kVpvzEX3mm7d7Pcw=s640-h400-e365-rw",
+        "extIcon": "https://lh5.googleusercontent.com/byDoVDJXTtu_qD9ZBIOBbxHn0QqI2NtC4D2XBQwy5HgLS-Oa5Bx4LHhleH5g_qa6W2b5tpDS=s26-h26-e365-rw"
+    },
+    {
+        "extId" : "jfpjdnlnlfohijjdaedloghlehphncoo",
+        "extNombre": "i New Tab",
+        "extUrl": "https://chrome.google.com/webstore/detail/i-new-tab/hdkdmoacnkphoadmfidlhfdobieblphn",
+        "extImg": "https://lh3.googleusercontent.com/6JEX0F_SUNTSJeXL8MNx5ZoFyC1_je-TLcZBsZynR14D5oQN0WonqMTYjdwYIoJCRMwCqC6e=w640-h400-e365",
+        "extIcon": "https://lh3.googleusercontent.com/y81Mrx-OeVQokULKI4OC4G1p88PEY0oNplCIrtCcRVEkYMacW4gsPNV5Z_g__XTHTZy_M8lrTSU=w26-h26-e365"
+    },
+    {
         "extId" : "laookkfknpbbblfpciffpaejjkokdgca",
         "extNombre": "Momentum",
         "extUrl": "https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca",
@@ -62,6 +76,13 @@ var newTabExtensiones = [
         "extUrl": "https://chrome.google.com/webstore/detail/awesome-new-tab-page/mgmiemnjjchgkmgbeljfocdjjnpjnmcg",
         "extImg": "https://lh4.googleusercontent.com/NK-ag5psyzd7vQ2O29llS3lcRSNwnEFjtS3ekIpjOvukGuEFug5ecGEHnqhsLJwjJpybJN3-0zI=s640-h400-e365-rw",
         "extIcon": "https://lh6.googleusercontent.com/TC5ZQjTS_iOIQW4VSpHev_lpIY781RtzlonRrSuLK38qZbFLWhr2abY8XE4NRZt0NjzyzdMW=s26-h26-e365-rw"
+    },
+    {
+        "extId" : "cfmnkhhioonhiehehedmnjibmampjiab",
+        "extNombre": "start.me - customize your new tab home",
+        "extUrl": "https://chrome.google.com/webstore/detail/startme-customize-your-ne/cfmnkhhioonhiehehedmnjibmampjiab",
+        "extImg": "https://lh4.googleusercontent.com/9GlOE15MFthrVE4NmAXxs40Nf3lTMDkqTHxZjKbfdt4rcNjLVQfxtQtepHZjEaFzlzEddyFPmA=s640-h400-e365-rw",
+        "extIcon": "https://lh4.googleusercontent.com/ZWzI0XU3ZQEJy-U5yNkhILqeUDRMabuTUGlShtfE1W4Ao6a1h3YDJdEykCo4GQ8CqvfMs29pHw=s26-h26-e365-rw"
     },
     {
         "extId" : "pfkfdlcdbajamklbneflfbcmfgddmpae",
@@ -260,6 +281,13 @@ var newTabExtensiones = [
         "extIcon": "https://lh5.googleusercontent.com/yxzpHQ9h225jHFs7fVda7PIKGoaMzwn5X_sX9B4at0Z4gE7t7Fu9IPGmC7em7CGqINW-96vV=s26-h26-e365-rw"
     },
     {
+        "extId" : "haafibkemckmbknhfkiiniobjpgkebko",
+        "extNombre": "Panda 4 | News & Inspiration Dashboard",
+        "extUrl": "https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko",
+        "extImg": "https://lh6.googleusercontent.com/mfnH1FK6lohGpxdiZ0zt5uUL_Uc-M4ycnPhVkLkOjQBkGgSDY6NeRttUHbEEIH8ha92XaH47jT0=s640-h400-e365-rw",
+        "extIcon": "https://lh5.googleusercontent.com/gAY55aameVL8GpW2kAXCm6GV_qDqmtVilk8z_59EXNA-dX7H_wngp_nH8D2owf2EGyGtFC5N7Q=s26-h26-e365-rw"
+    },
+    {
         "extId" : "oghkljobbhapacbahlneolfclkniiami",
         "extNombre": "iChrome- Tu página de inicio, para Chrome",
         "extUrl": "https://chrome.google.com/webstore/detail/ichrome-your-homepage-for/oghkljobbhapacbahlneolfclkniiami",
@@ -321,6 +349,13 @@ var newTabExtensiones = [
         "extUrl": "https://chrome.google.com/webstore/detail/x-new-tab-pageextension/nejjhhjbbdlbnpfhbclcilanmofmgdlk",
         "extImg": "https://lh6.googleusercontent.com/cZGQkulN6kV8DHfw6jhs3p6ucRNC0KtSJxfRVf_4mFaANWgsHAg3Xp7eozhZkER8yr3xfo_S7A=s640-h400-e365-rw",
         "extIcon": "https://lh3.googleusercontent.com/cIHGrgS6O7qWZyI7_iP70eIphltFzvujHLe8cN3n_WZebXZM4SMqnz6HwjOBcrToG3-TsEx1=s26-h26-e365-rw"
+    },
+    {
+        "extId" : "ilmanglmconenelnofcmdhbkpfdmbkco",
+        "extNombre": "Movie to Watch",
+        "extUrl": "https://chrome.google.com/webstore/detail/new-tab-movie-to-watch-%20/ilmanglmconenelnofcmdhbkpfdmbkco",
+        "extImg": "https://lh3.googleusercontent.com/hptAe5wxuk5orrE5-0Qfg14f0_OU_Ztcjs1g_SNRZDD4Q3XZ2n6ozgsOIHVMT-gHLyqFDKBY=s640-h400-e365-rw",
+        "extIcon": "https://lh3.googleusercontent.com/xQywaXXttd2wnpIz9f51x0JZFHHBxyFPXgxJKD_KS_CQlpLw-LAcUgv1emqPd12KGBMj6e2UCts=s26-h26-e365-rw"
     },
     {
         "extId" : "kkljgiehnknbpnadghniojebglajbmij",
@@ -723,13 +758,6 @@ var newTabExtensiones = [
         "extIcon": "https://lh5.googleusercontent.com/x_UaevsBW04H4SmoL_asYszUeQfg-0sKkuQOzDSJBzv4KF2oIVdGXIB5CCJYxYuCxnQ5hH29gg=s26-h26-e365-rw"
     },
     {
-        "extId" : "cfmnkhhioonhiehehedmnjibmampjiab",
-        "extNombre": "start.me - customize your new tab home",
-        "extUrl": "https://chrome.google.com/webstore/detail/startme-customize-your-ne/cfmnkhhioonhiehehedmnjibmampjiab",
-        "extImg": "https://lh4.googleusercontent.com/9GlOE15MFthrVE4NmAXxs40Nf3lTMDkqTHxZjKbfdt4rcNjLVQfxtQtepHZjEaFzlzEddyFPmA=s640-h400-e365-rw",
-        "extIcon": "https://lh4.googleusercontent.com/ZWzI0XU3ZQEJy-U5yNkhILqeUDRMabuTUGlShtfE1W4Ao6a1h3YDJdEykCo4GQ8CqvfMs29pHw=s26-h26-e365-rw"
-    },
-    {
         "extId" : "ggkdejmoejfpdokilakbnofpenckoank",
         "extNombre": "Awesome HQ (Extension)",
         "extUrl": "https://chrome.google.com/webstore/detail/awesome-hq-extension/ggkdejmoejfpdokilakbnofpenckoank",
@@ -890,6 +918,13 @@ var newTabExtensiones = [
         "extImg": "https://lh3.googleusercontent.com/YkzMysp87oRqrifyBOLzX9SUeQ1ZgxU9c0lk0KGKuPfm7OxRK57oqyArrWRpAq9rOP0GkzN9=s640-h400-e365-rw",
         "extIcon": "https://lh6.googleusercontent.com/gqhyfK1X55CmMaZq2YK95J626meKMkhOaisf6TJYw6fB8Ee9FEqHiT37y83rO1QG8yVau9y_3g=s26-h26-e365-rw"
     },
+    {
+        "extId" : "hhjeaokafplhjoogdemakihhdhffacia",
+        "extNombre": "Papier",
+        "extUrl": "https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia",
+        "extImg": "https://lh3.googleusercontent.com/OQU1Yf3bApokeE-f9K869mZ22I52Aa8dN0XVxfFpO_VFoJIUDJEw7y-PR_APl3er0oSHzA1y=s640-h400-e365-rw",
+        "extIcon": "https://lh3.googleusercontent.com/Vit3ZbuFj7PEg_bpk1lu-QKXbA1fBf1j48YL87MU3qmb0L_AQhRyA6Aa2E-sVwisMiGL6PId=s26-h26-e365-rw"
+    }
 ]
 
 
